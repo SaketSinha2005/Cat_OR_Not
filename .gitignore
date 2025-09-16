@@ -1,0 +1,34 @@
+# Datasets
+Dataset/train/
+Dataset/test/
+Dataset/val/
+*.jpg
+*.jpeg
+*.png
+
+numpy_Datasets/
+*.npy
+
+# Virtual environments
+env/
+env1/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
