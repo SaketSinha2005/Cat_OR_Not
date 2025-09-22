@@ -1,0 +1,14 @@
+artifact_uri: file:///home/saket-ubuntu/Cat_OR_Not/mlruns/676335462876494223/ecd3c81703684b868309a2e5dafbb621/artifacts
+end_time: 1758145492877
+entry_point_name: ''
+experiment_id: '676335462876494223'
+lifecycle_stage: active
+run_id: ecd3c81703684b868309a2e5dafbb621
+run_name: adorable-seal-975
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758145480383
+status: 3
+tags: []
+user_id: saket-ubuntu

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/saket-ubuntu/Cat_OR_Not/mlruns/676335462876494223/dab2956497ef41089911cb199ed95ce2/artifacts
+end_time: 1758116467599
+entry_point_name: ''
+experiment_id: '676335462876494223'
+lifecycle_stage: active
+run_id: dab2956497ef41089911cb199ed95ce2
+run_name: kindly-swan-395
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758116456561
+status: 3
+tags: []
+user_id: saket-ubuntu

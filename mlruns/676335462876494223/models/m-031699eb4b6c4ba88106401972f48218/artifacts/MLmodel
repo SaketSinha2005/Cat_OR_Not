@@ -1,0 +1,22 @@
+artifact_path: file:///home/saket-ubuntu/Cat_OR_Not/mlruns/676335462876494223/models/m-031699eb4b6c4ba88106401972f48218/artifacts
+flavors:
+  python_function:
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.tensorflow
+    python_version: 3.10.18
+  tensorflow:
+    code: null
+    data: data
+    keras_version: 2.15.0
+    model_type: keras
+    save_format: tf
+mlflow_version: 3.3.2
+model_id: m-031699eb4b6c4ba88106401972f48218
+model_size_bytes: 39859750
+model_uuid: m-031699eb4b6c4ba88106401972f48218
+prompts: null
+run_id: a23b95b5acae4512b93b65d90c2f6660
+utc_time_created: '2025-09-17 21:42:44.694436'

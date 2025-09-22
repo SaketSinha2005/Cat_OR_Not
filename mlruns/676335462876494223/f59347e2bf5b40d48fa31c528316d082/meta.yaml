@@ -1,0 +1,14 @@
+artifact_uri: file:///home/saket-ubuntu/Cat_OR_Not/mlruns/676335462876494223/f59347e2bf5b40d48fa31c528316d082/artifacts
+end_time: 1758147231096
+entry_point_name: ''
+experiment_id: '676335462876494223'
+lifecycle_stage: active
+run_id: f59347e2bf5b40d48fa31c528316d082
+run_name: victorious-rat-457
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758147217749
+status: 3
+tags: []
+user_id: saket-ubuntu

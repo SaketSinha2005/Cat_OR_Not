@@ -1,0 +1,14 @@
+artifact_uri: file:///home/saket-ubuntu/Cat_OR_Not/mlruns/676335462876494223/a23b95b5acae4512b93b65d90c2f6660/artifacts
+end_time: 1758145369977
+entry_point_name: ''
+experiment_id: '676335462876494223'
+lifecycle_stage: active
+run_id: a23b95b5acae4512b93b65d90c2f6660
+run_name: receptive-fly-449
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758145357337
+status: 3
+tags: []
+user_id: saket-ubuntu

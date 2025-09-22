@@ -1,0 +1,14 @@
+artifact_uri: file:///home/saket-ubuntu/Cat_OR_Not/mlruns/676335462876494223/88839b2cf9074ef5827706721e878029/artifacts
+end_time: 1758146054400
+entry_point_name: ''
+experiment_id: '676335462876494223'
+lifecycle_stage: active
+run_id: 88839b2cf9074ef5827706721e878029
+run_name: secretive-newt-331
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758146039603
+status: 3
+tags: []
+user_id: saket-ubuntu

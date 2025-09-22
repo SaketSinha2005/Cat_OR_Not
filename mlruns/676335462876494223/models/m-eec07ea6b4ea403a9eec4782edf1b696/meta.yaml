@@ -1,0 +1,10 @@
+artifact_location: file:///home/saket-ubuntu/Cat_OR_Not/mlruns/676335462876494223/models/m-eec07ea6b4ea403a9eec4782edf1b696/artifacts
+creation_timestamp: 1758147225429
+experiment_id: '676335462876494223'
+last_updated_timestamp: 1758147231043
+model_id: m-eec07ea6b4ea403a9eec4782edf1b696
+model_type: ''
+name: Basic_cnn_4
+source_run_id: f59347e2bf5b40d48fa31c528316d082
+status: 2
+status_message: null

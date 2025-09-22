@@ -1,0 +1,10 @@
+artifact_location: file:///home/saket-ubuntu/Cat_OR_Not/mlruns/676335462876494223/models/m-d59200f77750402dbc6484900230f5b1/artifacts
+creation_timestamp: 1758116462727
+experiment_id: '676335462876494223'
+last_updated_timestamp: 1758116467545
+model_id: m-d59200f77750402dbc6484900230f5b1
+model_type: ''
+name: model
+source_run_id: dab2956497ef41089911cb199ed95ce2
+status: 2
+status_message: null
